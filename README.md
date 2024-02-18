@@ -86,7 +86,6 @@ npm run dev
 
 #### 6.1. GitHub上新建仓库：
 
-![img](https://img-blog.csdnimg.cn/5d3b47129395473bb03b78f869bd5dd2.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAaGFjYWxpbGk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 ![img](https://img-blog.csdnimg.cn/30f8ad227dff479e97077060085b3969.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAaGFjYWxpbGk=,size_20,color_FFFFFF,t_70,g_se,x_16)
 #### 6.2. 进入本地项目根目录下：
