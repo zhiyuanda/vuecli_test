@@ -20,7 +20,7 @@ https://github.com/jiang-lijun/vuecli_test
 
 ## 预览地址：
 
-[vuecli_test](https://jiang-lijun.github.io/vuecli_test/dist/index.html#/)
+https://zhiyuanda.github.io/vuecli_test/dist/index.html#/
 
 ## 步骤如下：
 
